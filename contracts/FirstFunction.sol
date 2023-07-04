@@ -8,6 +8,6 @@ contract FirstFunction{
     }
 
     function getValue() public pure returns (string memory){
-        return printHello();
+        return printHello();//just to print
     }
 }
