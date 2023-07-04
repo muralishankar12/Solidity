@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getValue",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "printHello",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/FirstFunction.sol": "FirstFunction"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/FirstFunction.sol": {
+			"keccak256": "0x6f644525e8058e13b6560ac30d9413d5325a574dda40e85b4e1d060ca12a45b9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://9da567d585babd71c63b83a43b41dacf6d1cb2d5a3462273f78b6f668c178169",
+				"dweb:/ipfs/QmeQwiogyZxEztJjbTDaUm9YGysR6ihXJ6MhVqXfhBd7o5"
+			]
+		}
+	},
+	"version": 1
+}
